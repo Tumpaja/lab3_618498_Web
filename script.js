@@ -3,8 +3,7 @@ var num = 0;
 function add_1() {
     if (num >= 0 && num <= 9) {
         num++;
-        console.log(num);
-        
+        console.log(num);       
     }
 }
 
